@@ -1,0 +1,96 @@
+C:\Users\Student\Desktop\Test\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe.config
+C:\Users\Student\Desktop\Test\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe
+C:\Users\Student\Desktop\Test\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.pdb
+C:\Users\Student\Desktop\Test\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Test\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Properties.Resources.resources
+C:\Users\Student\Desktop\Test\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Test\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Test\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.exe
+C:\Users\Student\Desktop\Test\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.pdb
+C:\Users\Student\Desktop\Test\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Form1.resources
+C:\Users\Student\Desktop\Projects\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe.config
+C:\Users\Student\Desktop\Projects\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe
+C:\Users\Student\Desktop\Projects\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.pdb
+C:\Users\Student\Desktop\Projects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Projects\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Form1.resources
+C:\Users\Student\Desktop\Projects\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Properties.Resources.resources
+C:\Users\Student\Desktop\Projects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Projects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Projects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.exe
+C:\Users\Student\Desktop\Projects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.pdb
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe.config
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.pdb
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Form1.resources
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Properties.Resources.resources
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.exe
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.pdb
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe.config
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.pdb
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csprojAssemblyReference.cache
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Form1.resources
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Properties.Resources.resources
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csproj.GenerateResource.cache
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.exe
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.pdb
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe.config
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.pdb
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Form1.resources
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Properties.Resources.resources
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csproj.GenerateResource.cache
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.exe
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.pdb
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csprojAssemblyReference.cache
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe.manifest
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.application
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.exe.manifest
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.application
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Classes.ButtonSelection.resources
+C:\Users\Student\Git\c-module-1-capstone-team-3\19_Capstone\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.VendoMatic.resources
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe.manifest
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.application
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Classes.ButtonSelection.resources
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.exe.manifest
+C:\Users\Student\Desktop\Projects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.application
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Classes.ButtonSelection.resources
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe.manifest
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.application
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.exe.manifest
+C:\Users\Spencer\Documents\VSprojects\williamsprojects\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.application
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe.config
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe.manifest
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.application
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.pdb
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Classes.ButtonSelection.resources
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Form1.resources
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Properties.Resources.resources
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.exe.manifest
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.application
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.exe
+C:\Users\Student\Desktop\ProjectsNew\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.pdb
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe.config
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe.manifest
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.application
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.exe
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\bin\Debug\Vending 2.0.pdb
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csprojAssemblyReference.cache
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Classes.ButtonSelection.resources
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Form1.resources
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending_2._0.Properties.Resources.resources
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csproj.GenerateResource.cache
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.exe.manifest
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.application
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.exe
+C:\Users\Spencer\Documents\VSprojects2\williamsprojectsredo\Vending 2.0\Vending 2.0\obj\Debug\Vending 2.0.pdb
